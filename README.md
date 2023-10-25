@@ -1,4 +1,4 @@
-# Repositorio de Tareas y Aprendizajes Universitarios
+# Repositorio de Tareas UTN
 Bienvenido al repositorio oficial de la "Tecnicatura en Programación Web - UTN - San Rafael de Mendoza Argentina" donde se encuentran almacenadas todas las tareas, proyectos y conocimientos adquiridos durante nuestro recorrido académico. Este espacio es dedicado a compartir aprendizajes, colaborar en proyectos y fomentar el espíritu de comunidad entre los estudiantes.
 
 ¿Qué encontrarás aquí?
