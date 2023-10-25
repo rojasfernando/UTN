@@ -1,0 +1,31 @@
+!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>Fernando Rojas</title>
+    <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <!--ESTOS SON ENCABEZADOS-->
+        <div>
+        <h1>Fernando J. Rojas</h1>
+        <img width="320" height="320" src="imagenes/Foto carnet.jpg"/>       
+        <h2>PRESENTACION</h2>
+        <p>Misionero de nacimiento, tigrense de prestado. 42 años <strong>“¡Casado con Hijas”</strong>, de hobby escuchar música de todo! A saber:  </p>
+        </div>
+        <div>
+            <ol>
+            <!--Listas ordenadas-->
+            <li><strong>Rock</strong></li>
+            <li>Cumbia</li>
+            <li>Chamamé</li>
+            <li>House</li>
+            <li>Brasileros</li>
+            <li>Pop</li>
+            <li>Tango</li>
+            <li>Cachaca</li>
+            <a href="https://www.fscomputers.com.ar/" target="blank">
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/349/695/products/skull-s6crw-k590_11-884284701893d20f0016026854164179-320-0.png" alt="Auricular inalambrico">
+               </a>
+        </ol>
+    </div>
